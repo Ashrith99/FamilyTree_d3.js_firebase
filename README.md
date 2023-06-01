@@ -1,6 +1,6 @@
 # FamilyTree_d3.js_firebase
 
---initialise node with -> npm init -y 
+--initialise node with -> npm init -y <br>
 --install webpack with -> npm i webpack webpack-cli -D
 --in pacakage.json file,add -> "build": "webpack"
 --run -> npm run build to run the webpack
